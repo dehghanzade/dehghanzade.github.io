@@ -2,8 +2,8 @@ name: testsnfiles
 
 on:
   schedule:
-    - cron:  '*/14 */2 * * *'
-    - cron:  '3/12 1/2 * * *'
+    - cron:  '*/19 */2 * * *'
+    - cron:  '3/18 1/2 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
